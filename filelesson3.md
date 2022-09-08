@@ -21,5 +21,5 @@
 11. Сделать Add и commit
 12. git push
 13. Заходит на сайт github и нажимаем Campere 
-14. Можно 
+
 
